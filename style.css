@@ -1,0 +1,54 @@
+.bg {
+    margin: 0;
+    min-height: 100vh;
+    background-image: url("s.gif");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;   
+    align-items: center;       
+    min-height: 100vh;
+    
+
+}
+.box1 {
+    width: 800px;
+    height: 600px;
+    border: 2px solid black;
+    margin: auto;
+    position: relative;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px grey;
+}
+.buttonYES {
+    background-color: pink;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 16px;
+    margin: 4px auto;
+    cursor: pointer;
+    border-radius: 12px;
+    width: 150px;
+    
+}
+.buttonNO {
+    background-color: pink;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 16px;
+    margin: 4px auto;
+    cursor: pointer;
+    border-radius: 12px;
+    width: 150px;
+    
+}
